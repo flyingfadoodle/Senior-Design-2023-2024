@@ -1,2 +1,2 @@
 # Senior-Design-2023-2024
-A repository for my senior design project
+A repository for the 2023-2024 RSL Workcell Senior Design Project
