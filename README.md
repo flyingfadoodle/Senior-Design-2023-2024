@@ -1,10 +1,11 @@
 # Senior-Design-2023-2024
 This repository contains the software files of the 2023-2024 RSL Workcell Senior Design Project
 
-## Folder Descriptions
+## Table of Contents
 
 - [Movement](#Movement)
 - [dexArm](#dexArm)
+
 
 ## Movement
 This folder contains scripts used to manually control components of the workcell
