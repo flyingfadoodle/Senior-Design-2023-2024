@@ -3,7 +3,7 @@ This repository contains the software files of the 2023-2024 RSL Workcell Senior
 
 ## Table of Contents
 
-- [Movement](#Arduino_Code)
+- [Arduino Code](#Arduino_Code)
 - [Movement](#Movement)
 - [dexArm](#dexArm)
 
