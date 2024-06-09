@@ -8,11 +8,11 @@ This repository contains the software files of the 2023-2024 RSL Workcell Senior
 - [dexArm](#dexArm)
 
 
+## Arduino Code
+This folder contains the scripts used for the Arduinos on the workcell
+
 ## Movement
 This folder contains scripts used to manually control components of the workcell
 
 ## dexArm
 This folder contains all our demo scripts and function definition files, along with supplemental files needed to run the full demonstration as seen during the Senior Design Conference
-
-## Arduino Code
-This folder contains the scripts used for the Arduinos on the workcell
